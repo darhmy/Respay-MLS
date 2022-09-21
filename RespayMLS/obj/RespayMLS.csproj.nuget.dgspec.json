@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -81,7 +87,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Dev-PC\\source\\repos\\RespayMLS\\RespayMLS.Core\\RespayMLS.Core.csproj": {
+                "projectPath": "C:\\Users\\Dev-PC\\source\\repos\\RespayMLS\\RespayMLS.Core\\RespayMLS.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -151,7 +161,14 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Dev-PC\\source\\repos\\RespayMLS\\RespayMLS.Core\\RespayMLS.Core.csproj": {
+                "projectPath": "C:\\Users\\Dev-PC\\source\\repos\\RespayMLS\\RespayMLS.Core\\RespayMLS.Core.csproj"
+              },
+              "C:\\Users\\Dev-PC\\source\\repos\\RespayMLS\\RespayMLS.Data\\RespayMLS.Data.csproj": {
+                "projectPath": "C:\\Users\\Dev-PC\\source\\repos\\RespayMLS\\RespayMLS.Data\\RespayMLS.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

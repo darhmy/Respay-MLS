@@ -21,10 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\RespayMLS.Core\RespayMLS.Core.csproj" />
     <ProjectReference Include="..\RespayMLS.Data\RespayMLS.Data.csproj" />
     <ProjectReference Include="..\RespayMLS.Domain\RespayMLS.Domain.csproj" />

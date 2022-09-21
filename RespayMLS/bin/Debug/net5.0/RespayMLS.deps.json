@@ -1321,6 +1321,9 @@
         }
       },
       "RespayMLS.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.17"
+        },
         "runtime": {
           "RespayMLS.Core.dll": {}
         },
@@ -1331,7 +1334,8 @@
       "RespayMLS.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.17",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
+          "RespayMLS.Core": "1.0.0"
         },
         "runtime": {
           "RespayMLS.Data.dll": {}
@@ -1341,6 +1345,10 @@
         }
       },
       "RespayMLS.Domain/1.0.0": {
+        "dependencies": {
+          "RespayMLS.Core": "1.0.0",
+          "RespayMLS.Data": "1.0.0"
+        },
         "runtime": {
           "RespayMLS.Domain.dll": {}
         },

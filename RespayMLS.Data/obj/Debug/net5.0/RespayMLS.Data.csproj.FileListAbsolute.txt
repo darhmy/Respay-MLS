@@ -13,3 +13,6 @@ C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\refint\Re
 C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.pdb
 C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.genruntimeconfig.cache
 C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\ref\RespayMLS.Data.dll
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\bin\Debug\net5.0\RespayMLS.Core.dll
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\bin\Debug\net5.0\RespayMLS.Core.pdb
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.csproj.CopyComplete

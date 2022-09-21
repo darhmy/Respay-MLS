@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RespayMLS.Core\RespayMLS.Core.csproj" />
+    <ProjectReference Include="..\RespayMLS.Data\RespayMLS.Data.csproj" />
+  </ItemGroup>
+
 </Project>

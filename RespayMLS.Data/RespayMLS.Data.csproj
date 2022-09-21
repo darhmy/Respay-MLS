@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RespayMLS.Core\RespayMLS.Core.csproj" />
+  </ItemGroup>
+
 </Project>
