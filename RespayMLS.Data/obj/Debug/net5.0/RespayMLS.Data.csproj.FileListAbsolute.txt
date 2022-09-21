@@ -1,0 +1,15 @@
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\bin\Debug\net5.0\RespayMLS.Data.deps.json
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\bin\Debug\net5.0\RespayMLS.Data.runtimeconfig.json
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\bin\Debug\net5.0\RespayMLS.Data.runtimeconfig.dev.json
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\bin\Debug\net5.0\RespayMLS.Data.dll
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\bin\Debug\net5.0\RespayMLS.Data.pdb
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.csproj.AssemblyReference.cache
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.AssemblyInfoInputs.cache
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.AssemblyInfo.cs
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.dll
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\refint\RespayMLS.Data.dll
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.pdb
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\RespayMLS.Data.genruntimeconfig.cache
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Data\obj\Debug\net5.0\ref\RespayMLS.Data.dll

@@ -1,0 +1,12 @@
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\bin\Debug\net5.0\RespayMLS.Domain.deps.json
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\bin\Debug\net5.0\RespayMLS.Domain.dll
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\bin\Debug\net5.0\RespayMLS.Domain.pdb
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\obj\Debug\net5.0\RespayMLS.Domain.csproj.AssemblyReference.cache
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\obj\Debug\net5.0\RespayMLS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\obj\Debug\net5.0\RespayMLS.Domain.AssemblyInfoInputs.cache
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\obj\Debug\net5.0\RespayMLS.Domain.AssemblyInfo.cs
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\obj\Debug\net5.0\RespayMLS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\obj\Debug\net5.0\RespayMLS.Domain.dll
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\obj\Debug\net5.0\refint\RespayMLS.Domain.dll
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\obj\Debug\net5.0\RespayMLS.Domain.pdb
+C:\Users\Dev-PC\source\repos\RespayMLS\RespayMLS.Domain\obj\Debug\net5.0\ref\RespayMLS.Domain.dll
